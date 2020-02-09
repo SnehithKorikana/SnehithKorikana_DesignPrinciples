@@ -1,0 +1,16 @@
+package calctools;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Testadd {
+
+	@Test
+	public void test() {
+		Add ad =new Add();
+		int res=(int) ad.operation(1,2);
+		assertEquals(3,res);
+	}
+
+}
