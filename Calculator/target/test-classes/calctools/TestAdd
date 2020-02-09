@@ -1,0 +1,12 @@
+Êþº¾   1 &  calctools/Testadd  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lcalctools/Testadd; test RuntimeVisibleAnnotations Lorg/junit/Test;  
+calctools/Add
+  	
+     	operation (II)D       
+    org/junit/Assert   assertEquals (JJ)V ad Lcalctools/Add; res I 
+SourceFile Testadd.java !               /     *· ±    
+                 
+                  c     » Y· L+¶ Ž= …¸ ±    
+           
+             
+       !   	 " #   $    %
